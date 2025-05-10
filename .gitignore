@@ -5,7 +5,6 @@ node_modules/
 
 # compiled output
 output/
-!output/.gitkeep
 
 # input files (ignore all but keep folder)
 input_files/*
