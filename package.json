@@ -1,0 +1,15 @@
+{
+  "name": "xlsx-to-json",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "convert": "node index.js"
+  },
+  "keywords": [],
+  "author": "Kamiya",
+  "license": "ISC",
+  "description": "Tool to convert .xlsx files to .json",
+  "dependencies": {
+    "xlsx": "^0.18.5"
+  }
+}
